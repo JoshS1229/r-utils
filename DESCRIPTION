@@ -1,11 +1,14 @@
 Package: rutils
 Type: Package
 Title: Utility Functions for Data Handling
-Version: 0.0.1
-Authors@R: c(person(given = "Josh", family = "Silverman",
-                  email = "josh.d.silverman@gmail.com", role = c("aut", "cre")))
-Description: Provides small helper functions for data manipulation in R.  Includes a
-    function to merge two data frames and generate a Stata-style merge flag.
+Version: 0.0.2
+Authors@R: 
+    person(given = "Josh", family = "Silverman",
+           email = "josh.d.silverman@gmail.com",
+           role = c("aut", "cre"))
+Description: Provides small helper functions for data manipulation in R.
+    Includes a function to merge two data frames and generate a
+    Stata-style merge flag.
 License: MIT
 Encoding: UTF-8
 LazyData: true
